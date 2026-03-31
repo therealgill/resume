@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
-  "meta": { "theme": "claude" }
+  "meta": { "theme": "claude" },
   "basics": {
     "name": "Matthew Gill",
     "label": "Lead Innovation Engineer",
