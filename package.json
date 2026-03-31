@@ -1,14 +1,14 @@
 {
-  "name": "therealgill",
+  "name": "thomasdavis",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the resume of Thomas Davis. God of web development.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/therealgill/resume.git"
+    "url": "git+https://github.com/thomasdavis/resume.git"
   },
   "keywords": [
     "resume"
@@ -16,7 +16,7 @@
   "author": "Thomas Davis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/therealgill/resume/issues"
+    "url": "https://github.com/thomasdavis/resume/issues"
   },
-  "homepage": "https://github.com/therealgill/resume#readme"
+  "homepage": "https://github.com/thomasdavis/resume#readme"
 }
