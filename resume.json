@@ -1,15 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
-  "meta": {
-    "theme": "claude"
-  },
+  "meta": { "theme": "claude" }
   "basics": {
     "name": "Matthew Gill",
-    "label": "Lead Site Reliability Engineer",
+    "label": "Lead Innovation Engineer",
     "email": "mg@therealgill.com",
     "phone": "(225) 276-9165",
     "url": "https://therealgill.com",
-    "summary": "Senior infrastructure and reliability engineering leader with extensive experience in site reliability engineering, converged infrastructure, systems administration, automation, security, and higher education technology leadership. Proven background in cloud, DevOps, virtualization, scripting, and large-scale infrastructure modernization.",
+    "summary": "Technical leader with extensive experience in enterprise engineering, site reliability engineering, converged infrastructure, systems administration, automation, security, and higher education technology leadership. Proven background in cloud, DevOps, virtualization, scripting, and large-scale infrastructure modernization.",
     "location": {
       "city": "Hammond",
       "region": "Louisiana",
@@ -31,9 +29,22 @@
   "work": [
     {
       "name": "Blue Cross & Blue Shield of Louisiana",
+      "position": "Lead Innovation Engineer",
+      "startDate": "2026-03",
+      "endDate": "",
+      "summary": "Technical expert related to engineering initiatives focused on enterprise solutions, automation, platform resilience, cloud operations, and continual improvement.",
+      "highlights": [
+        "Develop enterpise-grade solutions for various business units",
+        "Site reliability engineering strategy and operations",
+        "Drive automation and infrastructure modernization",
+        "Improve platform stability, deployment reliability, and operational efficiency"
+      ]
+    },
+    {
+      "name": "Blue Cross & Blue Shield of Louisiana",
       "position": "Lead Site Reliability Engineer",
       "startDate": "2022-01",
-      "endDate": "",
+      "endDate": "2026-03",
       "summary": "Lead reliability and infrastructure engineering initiatives focused on automation, platform resilience, cloud operations, and continual improvement.",
       "highlights": [
         "Lead site reliability engineering strategy and operations",
@@ -174,6 +185,7 @@
         "PowerShell",
         "PowerCLI",
         "Python",
+        "Javascript",
         "Java",
         ".NET",
         "PHP",
@@ -210,6 +222,22 @@
     }
   ],
   "projects": [
+    {
+      "name": "Self-Service Automated Virtual Server Deprovisioning",
+      "description": "As part of a small team, I replanned the manual process, fully developed an automated and orchestrated process, and reduced a ~41 day manual process to a 7 minute automated process.",
+      "highlights": [
+        "Extreme reduction of time taken, and manual task investment",
+        "Established foundations for further self-service automation"
+      ]
+    },
+    {
+      "name": "Datacenter Migration",
+      "description": "Using an enterprise replication platform, I scripted out the replication/sync/migration of over 700VMs.",
+      "highlights": [
+        "Migration forecast from partner was over 72 hours. I reduced it to less than 18 hours",
+        "Enterprise-scale migration with no downtime"
+      ]
+    },
     {
       "name": "Active Directory Migration",
       "description": "Migrated SELU infrastructure from Novell NetWare and eDirectory to Microsoft Active Directory with automated ERP synchronization.",
