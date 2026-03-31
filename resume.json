@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
   "meta": {
-    "theme": "elegant"
+    "theme": "claude"
   },
   "basics": {
     "name": "Matthew Gill",
